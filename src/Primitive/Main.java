@@ -18,7 +18,7 @@ public class Main {
         System.out.println("a1 is: " + a1);
         System.out.println("a2 is: " + a2);
 
-// byte type
+        // byte type
         byte c1 = 0;
         byte c2 = 121;
         byte c3 = -127;
