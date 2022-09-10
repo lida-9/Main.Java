@@ -2,6 +2,13 @@ package Primitive;
 public class Main {
     public static void main(String[] args) {
 
+        // short type
+        short a1 = 100;
+        short a2 = 1000;;
+        System.out.println("short type example");
+        System.out.println("a1 is: " + a1);
+        System.out.println("a2 is: " + a2);
+
         // int type
         int b = 2000;
         int b1 = 909098890;
@@ -10,13 +17,6 @@ public class Main {
         System.out.println("b is: " + b);
         System.out.println("b1 is: " + b1);
         System.out.println("b2 is: " + b2);
-
-        // short type
-        short a1 = 100;
-        short a2 = 1000;;
-        System.out.println("short type example");
-        System.out.println("a1 is: " + a1);
-        System.out.println("a2 is: " + a2);
 
         // byte type
         byte c1 = 0;
